@@ -89,16 +89,16 @@
 <div align="center">
 
 ### **💻 PROGRAMMING LANGUAGES**
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&perline=4&theme=dark" />
 
 ### **🛠️ FRAMEWORKS & TECHNOLOGIES**
-<img src="https://skillicons.dev/icons?i=android,unity,mysql,nodejs,react&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=android,unity,mysql&perline=5&theme=dark" />
 
 ### **⚙️ DEVELOPMENT TOOLS**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=5&theme=dark" />
 
 ### **☁️ CLOUD & DEVOPS**
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,bash&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=firebase&perline=5&theme=dark" />
 
 </div>
 
@@ -108,12 +108,11 @@
 
 | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology | 📊 Proficiency | ⏱️ Experience | 🔥 Passion Level |
 |:---:|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | `████████▓▓` **85%** | 4+ Years | 🔥🔥🔥🔥🔥 |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | `████████▓▓` **83%** | 3+ Years | 🔥🔥🔥🔥▓ |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | `████████▓▓` **85%** | 3+ Years | 🔥🔥🔥🔥🔥 |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | `████████▓▓` **83%** | 2+ Years | 🔥🔥🔥🔥▓ |
 | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) | `███████▓▓▓` **78%** | 2+ Years | 🔥🔥🔥🔥🔥 |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | `██████▓▓▓▓` **72%** | 2+ Years | 🔥🔥🔥🔥▓ |
-| ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | `█████▓▓▓▓▓` **65%** | 1+ Years | 🔥🔥🔥▓▓ |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | `█████████▓` **92%** | 4+ Years | 🔥🔥🔥🔥🔥 |
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | `██████▓▓▓▓` **72%** | 1+ Years | 🔥🔥🔥🔥▓ |
+| ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | `█████▓▓▓▓▓` **65%** | 2+ Years | 🔥🔥🔥▓▓ |
 
 </div>
 
