@@ -156,9 +156,9 @@
 
 <div align="center">
 
-| 🎯 **Project Type** | 📱 **Mobile Apps** | 🎮 **Game Dev** | 🌐 **Web Solutions** | 🛠️ **DevOps Tools** |
+| 🎯 **Project Type** | 📱 **Mobile Apps** | 🎮 **VR project** |
 |:---:|:---:|:---:|:---:|:---:|
-| **Count** | 8+ | 3+ | 5+ | 4+ |
+| **Count** | 4+ | 2+ | 
 | **Status** | ![Active](https://img.shields.io/badge/Active-00ff00?style=flat) | ![Active](https://img.shields.io/badge/Active-00ff00?style=flat) | ![Active](https://img.shields.io/badge/Active-00ff00?style=flat) | ![Learning](https://img.shields.io/badge/Learning-ffd700?style=flat) |
 
 </div>
